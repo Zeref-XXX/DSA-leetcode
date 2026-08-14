@@ -1,15 +1,1 @@
-{
-  "totalSolved": 0,
-  "currentStreak": 0,
-  "maxStreak": 0,
-  "lastSyncDate": null,
-  "todayCount": 0,
-  "difficultyCounts": {
-    "easy": 0,
-    "medium": 0,
-    "hard": 0,
-    "basic": 0
-  },
-  "syncedProblems": {},
-  "activityHistory": {}
-}
+{"leetcode":{"easy":1,"hard":0,"medium":0,"shas":{"2570-merge-two-2d-arrays-by-summing-values":{"2570-merge-two-2d-arrays-by-summing-values.cpp":"53fe45a703643ba7746fe1686eb6e59e163d397f","README.md":"126f179270e6ce8476193401d33ca567d254ae5b","difficulty":"easy"},"README.md":{"":"b7be8169fc6a932cfd720c227c8aebe448019105"}},"solved":1}}
