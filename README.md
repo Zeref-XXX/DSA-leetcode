@@ -15,10 +15,12 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Zeref-XXX/DSA-websites/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Zeref-XXX/DSA-websites/tree/master/1539-kth-missing-positive-number) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Zeref-XXX/DSA-websites/tree/master/0001-two-sum) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0189-rotate-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
