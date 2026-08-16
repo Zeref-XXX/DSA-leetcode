@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Zeref-XXX/DSA-websites/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Zeref-XXX/DSA-websites/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Zeref-XXX/DSA-websites/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
