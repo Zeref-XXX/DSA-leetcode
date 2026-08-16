@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Zeref-XXX/DSA-websites/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Zeref-XXX/DSA-websites/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Zeref-XXX/DSA-websites/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Zeref-XXX/DSA-websites/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Zeref-XXX/DSA-websites/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0189-rotate-array) |
@@ -88,5 +90,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
