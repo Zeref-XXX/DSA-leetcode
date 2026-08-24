@@ -4,14 +4,19 @@ public:
         int candidate = -1;
         int count = 0;
         for (auto num : nums) {
-            if (candidate == num)
-                count++;
-            else if (count == 0)
+            if (count == 0) {
                 candidate = num;
+                count = 1;
+            } else if (candidate == num)
+                count++;
             else
                 count--;
         }
-        cout<<count;
-        return candidate;
+        count = 0;
+        for (auto num : nums)
+            if (candidate == num)
+                count++;
+
+        return count > nums.size() / 2 ? candidate : -1;
     }
 };
