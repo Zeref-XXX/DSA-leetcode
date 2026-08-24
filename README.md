@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Zeref-XXX/DSA-websites/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Zeref-XXX/DSA-websites/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Zeref-XXX/DSA-websites/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -95,4 +97,20 @@
 | [0048-rotate-image](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
