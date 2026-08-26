@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Zeref-XXX/DSA-websites/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/0169-majority-element) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -117,4 +118,5 @@
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Zeref-XXX/DSA-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
